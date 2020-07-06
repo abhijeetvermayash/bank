@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "Name": "Abhijeet Verma",
+      "age": "20",
+      "gender": "Male",
+      "accountnumber": "1111101",
+      "address": "flat-203,Asha Kunj Apt.,Ashok Nagar,Road no:14-b,Kankarbagh,Patna-800020",
+      "money": 900,
+      "id": 1
+    },
+    {
+      "age": "25",
+      "Name": "yash",
+      "gender": "male",
+      "accountnumber": "1111102",
+      "address": "Boaring Road",
+      "money": 1200,
+      "id": 2
+    }
+  ]
+}
